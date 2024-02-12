@@ -1,0 +1,3 @@
+com\example\simplewebchat\security\CustomUserDetails.class
+com\example\simplewebchat\security\OAuth2UserInfoExtractor.class
+com\example\simplewebchat\security\WebSecurityConfig.class
